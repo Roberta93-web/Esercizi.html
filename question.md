@@ -1,14 +1,11 @@
+Given the starting form, validate the fields:
 
-Create a registration form. The form should have the following fields:
-* Email
-* Password
-* Name and Lastname
-* Date of birth
-* Telephone number
-* A select for choosing plans: free plan, a group of 3 plans with increasing price, and a checkbox for a Pro Plan
-* Credit card number
-* CVC
-* Expiration date
-* Billing Address
+- All fields should be marked as mandatory
+- Fields related to credit card and CVC should have a validation about the maximum length.
+
+Dato il modulo iniziale, convalidare i campi:
+
+- Tutti i campi devono essere contrassegnati come obbligatori
+- I campi relativi alla carta di credito e al CVC devono avere una convalida sulla lunghezza massima.
 
 
