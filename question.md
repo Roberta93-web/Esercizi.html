@@ -1,7 +1,4 @@
 
-Add to the start.html page:
-* a disabled button.
-* an input field with label, in the range of 0-100 and double step (the input type number should have the focus on the opening of the page)
-* a checkbox with label (the checkbox should be already selected)
-* an input date type.
-
+Try to replicate the navbar html structure in the png file, without using CSS properties.
+**Suggestion**
+In order to replicate the navbar html structure, try to use the semantic tag `<nav>`. For the links try to use a not ordered list.
